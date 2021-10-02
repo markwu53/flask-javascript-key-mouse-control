@@ -1,0 +1,13 @@
+#scrImage {
+    border: 2px solid black;
+}
+
+button {
+    width: 10em;
+    height: 2em;
+}
+
+#textInput {
+    width: 25em;
+    height: 2em;
+}
