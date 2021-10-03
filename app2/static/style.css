@@ -1,0 +1,48 @@
+#spacer {
+	width: 10px;
+	height: 100px;
+}
+
+#scrImage {
+    border: 2px solid black;
+}
+
+#controlTable button
+, #saveActions 
+, #runActions 
+, #clearActions {
+    width: 10em;
+    height: 2em;
+}
+
+#textInput {
+    width: 25em;
+    height: 2em;
+}
+
+#actionTitle {
+    width: 15em;
+    height: 2em;
+}
+
+#actionLabel {
+	font-family: sans-serif;
+}
+
+#actionTable {
+	border-collapse: collapse;
+}
+
+#actionTable tr {
+	border: 1px solid black;
+}
+
+#actionTable .actionMessage {
+    width: 30em;
+    height: 2em;
+}
+
+#actionTable button {
+	width: 2em;
+	height: 2em;
+}
